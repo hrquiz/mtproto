@@ -1,7 +1,7 @@
 {
   "port": 5665,
   "secret":"b0cbcef5a486d9636472ac27f8e11a9d",
-  "server": "76.76.21.61",
+  "server": "mtproto.vercel.app",
   "indexPort": 8080,
   "channel": "HRClass"
 }
