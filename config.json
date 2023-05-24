@@ -1,6 +1,6 @@
 {
   "port": 443,
-  "secret":"b0hrcef5a486d9636472ac27f8e11a9d1",
+  "secret":"ee25ae5df6ac94ad149bde9fe4f526bee9617a7572652e6d6963726f736f66742e636f6d",
   "server": "mtproto.vercel.app",
   "indexPort": 8080,
   "channel": "HRClass"
