@@ -1,7 +1,7 @@
 {
-  "port": ,
+  "port": 3000,
   "secret":"d41d8cd98f00b204e9800998ecf8427e",
   "server": "mtproto.vercel.app",
-  "indexPort": ,
+  "indexPort":3000 ,
   "channel": "HRClass"
 }
